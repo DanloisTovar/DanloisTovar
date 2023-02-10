@@ -1,6 +1,6 @@
 ![](https://danloisbanner.netlify.app/1.png)
 
-<img src="https://raw.githubusercontent.com/danloistovar/danloistovar/main/danlois-tovar.png" alt="banner Danlois Tovar">
+<img src="https://raw.githubusercontent.com/DanloisTovar/DanloisTovar/main/danlois-tovar.png" alt="banner Danlois Tovar">
 ### Hello 👋, my name Danlois Tovar
 
 #### I am React Developer Full Stack Jr.
