@@ -22,9 +22,13 @@ I consider myself to be an organized, honest, responsible, committed, collaborat
 
 <br>
 
- <h3 align="left"> My stats:</h3>   
+ <h3 align="left"> My stats:</h3>
+ 
 <br>
+
 [comment]: # (tables Stats | Most use languages)
+
+<br>
 
 <div align="center">
 
@@ -32,13 +36,14 @@ I consider myself to be an organized, honest, responsible, committed, collaborat
 | ------------- | ------------- |
 <div/>
  
+ <br>
 
 <div align="center">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danloistovar&theme=algolia&" alt="danloistovar" > 
 <div/>
 
 <br>
-<br>
+ 
 <div align="center">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=DanloisTovar&theme=algolia&" alt="danloistovar" /></a>
