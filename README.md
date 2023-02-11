@@ -22,7 +22,7 @@ I consider myself to be an organized, honest, responsible, committed, collaborat
 
 
 
-**My Stats:**     
+ <h3 align="left"> My stats:</h3>   
 
 [comment]: # (tables Stats | Most use languages)
 
