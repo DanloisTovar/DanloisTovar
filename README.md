@@ -46,6 +46,7 @@ I consider myself to be an organized, honest, responsible, committed, collaborat
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danloistovar&label=Profile%20views&color=0e75b6&style=flat" alt="danloistovar" /> </p>
 
  <h3 align="left"> My favorite phrase:</h3>
+ 
 ### We don't solve problems, we create solutions! 👊️
 
 
