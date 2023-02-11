@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DanloisTovar/DanloisTovar/master/img/danlois-tovar.png" width="1024" height="270"alt="banner Danlois Tovar">
+<img src="https://raw.githubusercontent.com/DanloisTovar/DanloisTovar/master/img/danlois-tovar.png" width="1024" height="270" alt="banner Danlois Tovar">
 <p align="center" width="300" >
  
    <h3 align="center">Hello 👋, my name Danlois Tovar </h3>
