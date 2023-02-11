@@ -1,14 +1,13 @@
-<div>
- 
+<div> 
  <h1 align="left">Hello everyone 👋, i'm</h1>
- 
- <br>
-
 <div/>
-
+ 
+<div>
 <img src="https://raw.githubusercontent.com/DanloisTovar/DanloisTovar/master/img/danlois-tovar.png" width="1024" height="300" alt="banner Danlois Tovar">
-
+<div/>
+ 
 <br>
+ 
 <hr>
 
 
