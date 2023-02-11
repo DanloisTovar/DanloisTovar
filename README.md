@@ -44,7 +44,8 @@ I consider myself to be an organized, honest, responsible, committed, collaborat
 <div/>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danloistovar&label=Profile%20views&color=0e75b6&style=flat" alt="danloistovar" /> </p>
-
+<br>
+ 
  <h3 align="left"> My favorite phrase:</h3>
  
 ### We don't solve problems, we create solutions! 👊️
@@ -64,5 +65,5 @@ I consider myself to be an organized, honest, responsible, committed, collaborat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/danloistovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danloistovar" height="" width="40" /> </a> <a href="https://github.com/DanloisTovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="danloistovar" height="" width="40" /></a>
+<a href="https://linkedin.com/in/danloistovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danloistovar" height="" width="40" /> </a> <a href="https://github.com/DanloisTovar" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="danloistovar" height="" width="40" /></a>
 </p>
