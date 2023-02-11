@@ -32,7 +32,6 @@ I consider myself to be an organized, honest, responsible, committed, collaborat
 
 [comment]: # (tables Stats | Most use languages)
 
-<br>
 
 <div align="center">
 
