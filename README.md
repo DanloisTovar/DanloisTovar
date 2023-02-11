@@ -12,10 +12,14 @@ I am a systems analysis student and I have taken various programming and web dev
 
 I consider myself to be an organized, honest, responsible, committed, collaborative person and I enjoy being in a constant state of learning. 
 
+<br>
+
 [comment]: # (skills)
 
 <h3 align="left">Languages and Tools:</h3>
+
 <br>
+
 <p>
  <img height="100" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp&nbsp&nbsp<img height="100" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp&nbsp&nbsp<img height="100" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp&nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height=""/>&nbsp&nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height=""/>&nbsp&nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height=""/>&nbsp&nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="100" height=""/>&nbsp&nbsp&nbsp<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height=""/> &nbsp&nbsp&nbsp<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="100" height=""/>&nbsp&nbsp&nbsp<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="100"/>&nbsp&nbsp&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="" height="100"/>&nbsp&nbsp&nbsp<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height=""/>
 <p/>
@@ -43,7 +47,7 @@ I consider myself to be an organized, honest, responsible, committed, collaborat
 <div/>
 
 <br>
-
+<br>
  
 <div align="center">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -51,6 +55,7 @@ I consider myself to be an organized, honest, responsible, committed, collaborat
 </p>
 <div/>
  
+<br>
 <br>
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danloistovar&label=Profile%20views&color=0e75b6&style=flat" alt="danloistovar" /> </p>
