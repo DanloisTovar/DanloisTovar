@@ -65,5 +65,5 @@ I consider myself to be an organized, honest, responsible, committed, collaborat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/danloistovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danloistovar" height="" width="40" /></a><a href="https://github.com/DanloisTovar" target="blank">&nbspnbsp<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="danloistovar" height="" width="40" /></a>
+<a href="https://linkedin.com/in/danloistovar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danloistovar" height="" width="40" /></a><a href="https://github.com/DanloisTovar" target="blank">&nbsp&nbsp&nbsp<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="danloistovar" height="" width="40" /></a>
 </p>
