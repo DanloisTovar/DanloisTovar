@@ -24,11 +24,13 @@ I consider myself to be an organized, honest, responsible, committed, collaborat
 
 [comment]: # (tables Stats | Most use languages)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanloisTovar&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanloisTovar&layout=compact&theme=algolia&hide_border=true" /> |<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danloistovar&theme=algolia&" alt="danloistovar" >
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanloisTovar&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanloisTovar&layout=compact&theme=algolia&hide_border=true" /> |
 | ------------- | ------------- |
 
 
- aqui
+<div align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danloistovar&theme=algolia&" alt="danloistovar" > 
+<div/>
 
 <br>
 
