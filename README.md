@@ -16,7 +16,7 @@
 
 <h3 align="left">About me</h3>
 
-💼 FrontEnd Jr at [Independent](https://danloistovar.netlify.app/)
+💼 React Developer Full-Stack Jr at [Independent](https://danloistovar.netlify.app/)
 
 I am a systems analysis student and I have taken various programming and web development courses. I am enthusiastic about programming and always seeking new challenges.
 
