@@ -16,12 +16,13 @@
 
 <h3 align="left">About me</h3>
 
-💼 React Developer Full-Stack Jr at [Independent](https://danloistovar.netlify.app/)
+💼 React Developer Jr,  View my portfolio: [Independent](https://danloistovar.netlify.app/)
 
-I am a systems analysis student and I have taken various programming and web development courses. I am enthusiastic about programming and always seeking new challenges.
+I am  systems analysis and I have taken various programming and web development courses. I am enthusiastic about programming and always seeking new challenges.
 
 I consider myself to be an organized, honest, responsible, committed, collaborative person and I enjoy being in a constant state of learning. 
 
+Currently, I'm studying a Bachelor's in Digital Technologies at the University of Buenos Aires.
 <br>
 
 [comment]: # (skills)
