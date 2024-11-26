@@ -22,7 +22,7 @@ I have a background in Systems Analysis and have completed various courses in pr
 
 I pride myself on being organized, honest, responsible, and committed, with a collaborative mindset. I thrive in environments that foster growth and learning.
 
-Currently, I am pursuing a Bachelor’s in Digital Technologies at the University of Buenos Aires, further solidifying my expertise in the digital and technological landscape.
+Currently, I am pursuing a Bachelor’s in Digital Technologies at the University of the City of Buenos Aires, further solidifying my expertise in the digital and technological landscape.
 <br>
 
 [comment]: # (skills)
