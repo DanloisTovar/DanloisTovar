@@ -1,11 +1,7 @@
 <div> 
- <h1 align="left">Hello everyone 👋, i'm</h1>
+ <h1 align="left">Hello everyone 👋, i'm Danlois Tovar</h1>
 <div/>
 
-<div> 
- <h1 align="left">Danlois  Tovar</h1>
-<div/>
- 
  <br>
 
  <!--
