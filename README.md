@@ -18,11 +18,11 @@
 
 💼 React Developer Jr,  View my portfolio: [Independent](https://danloistovar.netlify.app/)
 
-I am  systems analysis and I have taken various programming and web development courses. I am enthusiastic about programming and always seeking new challenges.
+I have a background in Systems Analysis and have completed various courses in programming and web development. I am passionate about coding, continuously seeking new challenges, and always striving to improve my skills.
 
-I consider myself to be an organized, honest, responsible, committed, collaborative person and I enjoy being in a constant state of learning. 
+I pride myself on being organized, honest, responsible, and committed, with a collaborative mindset. I thrive in environments that foster growth and learning.
 
-Currently, I'm studying a Bachelor's in Digital Technologies at the University of Buenos Aires.
+Currently, I am pursuing a Bachelor’s in Digital Technologies at the University of Buenos Aires, further solidifying my expertise in the digital and technological landscape.
 <br>
 
 [comment]: # (skills)
