@@ -6,7 +6,7 @@
 
  
 <div>
-<img src="https://raw.githubusercontent.com/DanloisTovar/DanloisTovar/master/img/danlois-tovar.png" width="1024" height="300" alt="banner Danlois Tovar">
+##<img src="https://raw.githubusercontent.com/DanloisTovar/DanloisTovar/master/img/danlois-tovar.png" width="1024" height="300" alt="banner Danlois Tovar">
 <div/>
  
 <br>
